@@ -1,16 +1,44 @@
-# mindrops
+Features
+Smart Search
 
-A new Flutter project.
+WhatsApp-style search bar
 
-## Getting Started
+Live results as the user types
 
-This project is a starting point for a Flutter application.
+Optimized with debouncing (500ms)
 
-A few resources to get you started if this is your first Flutter project:
+Trending GIFs
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Shown by default when no search query
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Powered by Giphy Trending API
+
+Infinite Scroll
+
+Auto-load more GIFs when user scrolls
+
+Smooth experience using GetX state updates
+
+Beautiful UI
+
+Modern rounded search bar
+
+Shimmer placeholders for loading
+
+Smooth fade-in GIFs
+
+Clean card layout
+
+Tech Stack
+
+Flutter (Stable Channel)
+
+GetX (State management & DI)
+
+Dart
+
+Giphy API
+
+Shimmer package
+
+HTTP package
